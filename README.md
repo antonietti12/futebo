@@ -1,1 +1,1 @@
-# bolos/receitas
+receitas
